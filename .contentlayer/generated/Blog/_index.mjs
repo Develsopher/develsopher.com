@@ -2,5 +2,6 @@
 
 import blog__nalSeePreviewMdx from './blog__nal-see-preview.mdx.json' assert { type: 'json' }
 import blog__nalSeeSettingProjectMdx from './blog__nal-see-setting-project.mdx.json' assert { type: 'json' }
+import blog__jarvisPreviewMdx from './blog__jarvis-preview.mdx.json' assert { type: 'json' }
 
-export const allBlogs = [blog__nalSeePreviewMdx, blog__nalSeeSettingProjectMdx]
+export const allBlogs = [blog__nalSeePreviewMdx, blog__nalSeeSettingProjectMdx, blog__jarvisPreviewMdx]
